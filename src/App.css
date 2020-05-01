@@ -1,0 +1,7 @@
+.card-image {
+  padding: 0.25em;
+  border: 3px lightgrey solid;
+  border-radius: 10px;
+  margin: 0.5em;
+  box-shadow: 5px 5px 15px;
+}
